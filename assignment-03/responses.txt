@@ -1,0 +1,5 @@
+Web browsers interact through Internet Protocol addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+
+Cookies are text files with small pieces of data like username and password that are used to identify your computer as you use a computer network. 
+
+Protocol, Domain name, and The path
